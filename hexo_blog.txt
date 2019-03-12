@@ -1,0 +1,3 @@
+gitbash:
+hexo new post "..."  (创建新文章)
+hexo g -d		(部署)
