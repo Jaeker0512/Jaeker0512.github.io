@@ -1,6 +1,4 @@
 ---
-​---
-title: tags
+​title: tags
 type: tags
-​---
 ---

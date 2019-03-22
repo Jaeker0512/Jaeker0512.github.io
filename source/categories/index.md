@@ -1,6 +1,4 @@
 ---
-​---
-title: categories
+​title: categories
 type: categories
-​---
 ---
